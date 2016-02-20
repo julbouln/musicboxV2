@@ -1,0 +1,3 @@
+[submodule "firmware/ccgmusic"]
+	path = firmware/ccgmusic
+	url = https://github.com/julbouln/ccgmusic
